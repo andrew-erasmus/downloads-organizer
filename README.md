@@ -1,2 +1,2 @@
-# downloads-organizer
-A python project that take downloads and places in organized folders
+## Downloads Organizer:
+A python script that when run, organizes downloads and places them in folders based on their extension. Files can have any name and program will still find the extension. This is to declutter messy downloads folders.
